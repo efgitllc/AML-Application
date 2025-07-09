@@ -1,0 +1,1 @@
+"""\nCompliance Regulatory app initialization\n"""

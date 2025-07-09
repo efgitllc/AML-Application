@@ -1,0 +1,1 @@
+"""\nFraud Detection app initialization\n"""

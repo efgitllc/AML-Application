@@ -1,0 +1,1 @@
+"""\nAlert Notification app initialization\n"""

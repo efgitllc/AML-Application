@@ -1,0 +1,1 @@
+"""\nTransaction Monitoring app initialization\n"""

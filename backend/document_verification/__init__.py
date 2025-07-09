@@ -1,0 +1,1 @@
+"""\nDocument Verification app initialization\n"""

@@ -1,0 +1,1 @@
+"""\nTraining Simulation app initialization\n"""

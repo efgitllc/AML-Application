@@ -1,0 +1,1 @@
+"""\nSecurity Encryption app initialization\n"""

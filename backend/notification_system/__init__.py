@@ -1,0 +1,1 @@
+"""\nNotification System app initialization\n"""

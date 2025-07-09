@@ -1,0 +1,1 @@
+"""\nLogs app initialization\n"""

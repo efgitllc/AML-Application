@@ -1,0 +1,1 @@
+"""\nData Management app initialization\n"""

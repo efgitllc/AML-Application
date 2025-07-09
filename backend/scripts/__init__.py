@@ -1,0 +1,1 @@
+"""\nScripts app initialization\n"""

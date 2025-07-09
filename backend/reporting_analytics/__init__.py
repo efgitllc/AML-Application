@@ -1,0 +1,1 @@
+"""\nReporting Analytics app initialization\n"""

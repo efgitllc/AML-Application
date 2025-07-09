@@ -1,0 +1,1 @@
+"""\nCore app initialization\n"""

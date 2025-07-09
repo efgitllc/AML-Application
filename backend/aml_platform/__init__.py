@@ -1,0 +1,1 @@
+"""\nAml Platform app initialization\n"""

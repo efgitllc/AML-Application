@@ -1,0 +1,1 @@
+"""\nCommunication Notification app initialization\n"""

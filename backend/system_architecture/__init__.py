@@ -1,0 +1,1 @@
+"""\nSystem Architecture app initialization\n"""
